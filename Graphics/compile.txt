@@ -1,0 +1,1 @@
+g++ bo.cpp ./glad/src/glad.c ./shaderClass/shader.cpp -o bo3 libglfw.so.3.4 -lGL -lX11 -lpthread -lXrandr -lXi -ldl

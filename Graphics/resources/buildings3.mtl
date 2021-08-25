@@ -1,0 +1,360 @@
+# Blender MTL File: 'withTerrain.blend'
+# Material Count: 30
+
+newmtl CobbleStone
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 6.200000 assets/Floor/Cobble1/cobblestone_05_nor_1k.jpg
+map_Kd assets/Floor/Cobble1/cobblestone_05_diff_1k.jpg
+
+newmtl Mainkeepwall
+Ns 58.314048
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 1.700000 assets/walls/wallvariations/castle_wall_varriation_nor_1k.jpg
+map_Kd assets/walls/wallvariations/castle_wall_varriation_diff_1k.jpg
+map_Ks assets/walls/wallvariations/castle_wall_varriation_ao_1k.jpg
+
+newmtl Material.003
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.700001 assets/walls/medievalBlocks3/medieval_blocks_03_nor_1k.jpg
+map_Kd assets/walls/medievalBlocks3/medieval_blocks_03_diff_1k.jpg
+map_Ks assets/walls/medievalBlocks3/medieval_blocks_03_spec_1k.jpg
+
+newmtl Material.004
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump assets/Wood/brownPlank2/brown_planks_08_nor_1k.jpg
+map_Kd assets/Wood/brownPlank2/brown_planks_08_diff_1k.jpg
+map_Ns assets/Wood/brownPlank2/brown_planks_08_rough_1k.jpg
+
+newmtl Material.005
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd assets/tresurebox.jpg
+
+newmtl Material.006
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd assets/Wood/oldPlank/old_planks_02_diff_1k.jpg
+
+newmtl Material.007
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump assets/Wood/medievalWood/medieval_wood_Nor_1k.jpg
+map_Kd assets/Wood/medievalWood/medieval_wood_diff_1k.jpg
+
+newmtl None
+Ns 500
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl _watchtowerRoof
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump assets/Wood/medievalWood/medieval_wood_Nor_1k.jpg
+map_Kd assets/Wood/medievalWood/medieval_wood_diff_1k.jpg
+
+newmtl backtowerRoof
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump assets/roof/roof/roof_09_nor_1k.jpg
+map_Kd assets/roof/roof/roof_09_diff_1k.jpg
+
+newmtl backtowerWall
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump assets/walls/wallvariations/castle_wall_varriation_nor_1k.jpg
+map_Kd assets/walls/wallvariations/castle_wall_varriation_diff_1k.jpg
+
+newmtl defensewallwall
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.554545
+illum 9
+map_Bump assets/walls/castlewallslate/castle_wall_slates_nor_1k.jpg
+map_Kd assets/walls/castlewallslate/castle_wall_slates_diff_1k.jpg
+map_Ks assets/walls/castlewallslate/castle_wall_slates_ao_1k.jpg
+map_Ns assets/walls/castlewallslate/castle_wall_slates_rough_1k.jpg
+
+newmtl door
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd assets/door.png
+
+newmtl gatehold
+Ns 17.869831
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump assets/walls/roughBlockWall/rough_block_wall_nor_1k.jpg
+map_Kd assets/walls/roughBlockWall/rough_block_wall_diff_1k.jpg
+
+newmtl greathallfloor
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump assets/Wood/dirtPlank/wood_planks_dirt_nor_1k.jpg
+map_Kd assets/Wood/dirtPlank/wood_planks_dirt_diff_1k.jpg
+
+newmtl greathallwalls
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.140909 0.140909 0.140909
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump assets/walls/castlewallslate/castle_wall_slates_nor_1k.jpg
+map_Kd assets/walls/castlewallslate/castle_wall_slates_diff_1k.jpg
+
+newmtl greathallwooden
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.181818 0.181818 0.181818
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 5.100000 assets/Wood/oldPlank/old_planks_02_nor_1k.jpg
+map_Kd assets/Wood/oldPlank/old_planks_02_diff_1k.jpg
+
+newmtl handles.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/sandesh/Desktop/Desktop/misc/tex3.jpg
+
+newmtl keeptopwall
+Ns 62.553713
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.131818 0.131818 0.131818
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump assets/walls/wallvariations/castle_wall_varriation_nor_1k.jpg
+map_Kd assets/walls/wallvariations/castle_wall_varriation_diff_1k.jpg
+map_Ks assets/walls/wallvariations/castle_wall_varriation_ao_1k.jpg
+
+newmtl midsec.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.269935 0.066094 0.020811
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.847222
+illum 1
+map_Kd /home/sandesh/Desktop/Downloads/leather_red_02_1k_jpg/leather_red_02_coll1_1k.jpg
+refl /home/sandesh/Desktop/Downloads/leather_red_02_1k_jpg/leather_red_02_coll1_1k.jpg
+
+newmtl sidetowerRoof
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump assets/roof/roof/roof_09_nor_1k.jpg
+map_Kd assets/roof/roof/roof_09_diff_1k.jpg
+
+newmtl sidetowerwall
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump assets/walls/wallvariations/castle_wall_varriation_nor_1k.jpg
+map_Kd assets/walls/wallvariations/castle_wall_varriation_diff_1k.jpg
+map_Ks assets/walls/wallvariations/castle_wall_varriation_ao_1k.jpg
+
+newmtl spikey.001
+Ns 367.361119
+Ka 0.041667 0.041667 0.041667
+Kd 0.047618 0.053395 0.049029
+Ks 0.180556 0.180556 0.180556
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd /home/sandesh/Desktop/Desktop/misc/steeltex.jpg
+refl /home/sandesh/Desktop/Desktop/misc/steeltex.jpg
+
+newmtl stablefloor
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump assets/Floor/brownMud/brown_mud_dry_nor_1k.jpg
+map_Kd assets/Floor/brownMud/brown_mud_dry_diff_1k.jpg
+
+newmtl stablewall
+Ns 31.258265
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.340909
+illum 1
+map_Bump assets/walls/medievalBlocks3/medieval_blocks_03_nor_1k.jpg
+map_Kd assets/walls/medievalBlocks3/medieval_blocks_03_diff_1k.jpg
+
+newmtl stablewood
+Ns 42.842987
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.109091 0.109091 0.109091
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump assets/Wood/oldPlank/old_planks_02_nor_1k.jpg
+map_Kd assets/Wood/oldPlank/old_planks_02_diff_1k.jpg
+
+newmtl wallpillar
+Ns 28.283061
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.118182 0.118182 0.118182
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump assets/walls/beamWall/beam_wall_01_nor_1k.jpg
+map_Kd assets/walls/beamWall/beam_wall_01_diff_1k.jpg
+
+newmtl watchtower
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.140909 0.140909 0.140909
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump assets/walls/medievalBlocks3/medieval_blocks_03_nor_1k.jpg
+map_Kd assets/walls/medievalBlocks3/medieval_blocks_03_diff_1k.jpg
+
+newmtl wellwall
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump assets/walls/castleBrick/castle_brick_01_nor_1k.jpg
+map_Kd assets/walls/castleBrick/castle_brick_01_diff_1k.jpg
+
+newmtl window
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd assets/Wood/medievalWood/medieval_wood_diff_1k.jpg
